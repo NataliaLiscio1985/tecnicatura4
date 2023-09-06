@@ -26,6 +26,9 @@ const displayCart = () => {
     modalHeader.append(modalTitle);
 
     modalContainer.append(modalHeader);
+
+    //modal Body
+    cart.
 };
 
 cartBtn.addEventListener("click", displayCart)
